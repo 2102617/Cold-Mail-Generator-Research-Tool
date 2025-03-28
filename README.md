@@ -25,7 +25,7 @@ The ** Cold Mail Generator & Research Tool** is a Streamlit-based web applicati
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cold-mail-generator.git
+git clone https://github.com/2102617/Cold-Mail-Generator-Research-Tool.git
 cd cold-mail-generator
 ```
 
